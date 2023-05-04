@@ -25,10 +25,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>High-Level Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Create a resource group in Azure 
+- Create a virtual network and subnets
+- Download and install WireShark to observe the traffic
+- Use PowerShell to communicate between the virtual machine
+- Observe the inbound and outbound traffic from WireShark
 
 <h2>Actions and Observations</h2>
 
