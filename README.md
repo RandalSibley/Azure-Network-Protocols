@@ -34,7 +34,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Actions and Observations</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/gxOdS6v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this photo I am creating a resource group in Azure with two virtual machines, one running Windows 10 and the other running Ubuntu/Lenix. At the same time I will be creating a virtual network and subnets. 
@@ -42,7 +42,7 @@ In this photo I am creating a resource group in Azure with two virtual machines,
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/atI0sxI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this photo I will login to both virtual machines using remote desktop. Once logged into VM-1,  I will download and install WireShark to observe the traffic between the two virtual machines.
@@ -50,7 +50,7 @@ In this photo I will login to both virtual machines using remote desktop. Once l
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xNhDOLM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this photo I am opening the NSG in the Ubuntu VM in Azure and creating a firewall by disabling inbound ICMP traffic.
